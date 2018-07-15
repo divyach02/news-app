@@ -36,6 +36,8 @@ gem 'jquery-rails'
 
 gem 'bootstrap-sass'
 
+gem 'acts_as_votable'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
